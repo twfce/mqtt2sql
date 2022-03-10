@@ -1,0 +1,4 @@
+ConfigArgParse==1.5.3
+configparser==5.2.0
+mysqlclient==2.1.0
+paho-mqtt==1.6.1
